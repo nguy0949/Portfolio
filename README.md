@@ -1,0 +1,4 @@
+I spent a lot of time and effort building this portfolio website. First of all, I applied the Design Foundation and the User Experience lessons to build the first images for my portfolio site, such as choosing the colour, the layout by Adobe XD  etc. Second, I have learned a lot of new experiences and applied the lessons in class to build this website, like grid and animations etc.
+Besides, I used some external libraries like Bootstrap and Bootstrap icon. I also had some difficulties in dividing columns and optimizing images and illustrations. I passed by researching on the internet and consulting friends.
+This is a simple website, but I tried to apply the knowledge learned in class and self-study to complete it. I will always work to improve it.
+This is the source where I took the picture (banner) https://pixabay.com/vi/photos/c%c3%b4ng-ngh%e1%bb%87-vi%c3%aan-thu%e1%bb%91c-792180/
