@@ -203,7 +203,7 @@ footer {
 @media (min-width: 1200px) {
     .banner {
         height: 500px;
-        
+        background: url('./images/banner.jpg') no-repeat;
         background-position: top;
         background-size: cover;
     }
